@@ -1,8 +1,7 @@
 # DataCamp
 Projects and notes from DataCamp
 
-
-Project A: Who Is Drunk and When in Ames, Iowa?
+    Project A: Who Is Drunk and When in Ames, Iowa?
 
     - Purpose: Pandas practice
     
@@ -10,7 +9,7 @@ Project A: Who Is Drunk and When in Ames, Iowa?
 
 
 
-Project B: Use MLB's Statcast data to compare New York Yankees sluggers Aaron Judge and Giancarlo Stanton.
+    Project B: Use MLB's Statcast data to compare New York Yankees sluggers Aaron Judge and Giancarlo Stanton.
 
     - Purpose: Pandas and visualization practice
     
