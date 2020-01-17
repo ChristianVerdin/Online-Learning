@@ -1,6 +1,7 @@
 # DataCamp
 Projects and notes from DataCamp
 Project B: Use MLB's Statcast data to compare New York Yankees sluggers Aaron Judge and Giancarlo Stanton. 
+    
     - Purpose: Pandas and visualization practice 
     
     - Statcast_AJ_GS.ipynb / judge.csv / stanton.csv 
