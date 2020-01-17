@@ -20,3 +20,12 @@ Projects and notes from DataCamp
     - statcast glossary: http://m.mlb.com/glossary/statcast
     
     - https://deadspin.com/major-league-baseballs-statcast-can-break-sabermetrics-1820987737
+
+
+Project C: Automatically generate keywords for a search engine marketing campaign using Python
+
+- Purpose: Pandas practice
+
+- GoogleAds_Keywords.ipynb / keywords.csv 
+
+- Google Ads: https://ads.google.com/home/
