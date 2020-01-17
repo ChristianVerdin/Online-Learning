@@ -7,7 +7,7 @@ Purpose: Pandas practice
 
 
 
-Project B: Who Is Drunk and When in Ames, Iowa?
+Project B: Use MLB's Statcast data to compare New York Yankees sluggers Aaron Judge and Giancarlo Stanton.
 Purpose: Pandas and visualization practice
     - Statcast_AJ_GS.ipynb / judge.csv / stanton.csv
     - data from: https://baseballsavant.mlb.com/about
