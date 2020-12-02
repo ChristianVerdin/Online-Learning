@@ -2,6 +2,7 @@
 Projects and notes from DataCamp
 
     Project A: Who Is Drunk and When in Ames, Iowa?
+    - Location: DataCamp/Ames branch
 
     - Purpose: Pandas practice
     
@@ -10,6 +11,7 @@ Projects and notes from DataCamp
 
 
     Project B: Use MLB's Statcast data to compare New York Yankees sluggers Aaron Judge and Giancarlo Stanton.
+    - Location: DataCamp/Statcast branch
 
     - Purpose: Pandas and visualization practice
     
@@ -20,12 +22,14 @@ Projects and notes from DataCamp
     - statcast glossary: http://m.mlb.com/glossary/statcast
     
     - https://deadspin.com/major-league-baseballs-statcast-can-break-sabermetrics-1820987737
-
-
-Project C: Automatically generate keywords for a search engine marketing campaign using Python
-
-- Purpose: Pandas practice
-
-- GoogleAds_Keywords.ipynb / keywords.csv 
-
-- Google Ads: https://ads.google.com/home/
+    
+   
+    Project C: Automatically generate keywords for a search engine marketing campaign using Python
+    - Location: DataCamp/GoogleAds_Keywords branch
+    
+    - Purpose: Pandas practice
+    
+    - GoogleAds_Keywords.ipynb / keywords.csv
+    
+    - Google Ads: https://ads.google.com/home/
+    
