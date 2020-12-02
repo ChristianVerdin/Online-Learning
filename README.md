@@ -1,5 +1,4 @@
-# DataCamp
-Projects and notes from DataCamp
+# Ames, Iowa Drunk Driver Analysis
 
 Project A: Who Is Drunk and When in Ames, Iowa?
 - Purpose: Pandas practice
