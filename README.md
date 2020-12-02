@@ -1,5 +1,4 @@
-# DataCamp
-Projects and notes from DataCamp
+# Super Bowl Data Analysis
 
     Project D:
     - Location: https://github.com/ChristianVerdin/DataCamp/tree/SuperBowl
