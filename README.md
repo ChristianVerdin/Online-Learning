@@ -1,5 +1,4 @@
-# DataCamp
-Projects and notes from DataCamp
+# Google Keywords Analysis
 
     Project C: Automatically generate keywords for a search engine marketing campaign using Python
 
