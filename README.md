@@ -1,6 +1,7 @@
 # DataCamp
-Projects and notes from DataCamp
-    Click on Different Branches for links to jupyter notebooks and datasets
+Projects and notes from DataCamp...
+
+Click on Different Branches for links to jupyter notebooks and datasets
 
     Project A: Who Is Drunk and When in Ames, Iowa?
     - Location: https://github.com/ChristianVerdin/DataCamp/tree/Ames
