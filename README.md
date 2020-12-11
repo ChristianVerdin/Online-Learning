@@ -38,5 +38,14 @@ Click on Different Branches for links to jupyter notebooks and datasets
     
     Project F: The Android-App-Market-Analysis
     - Location: https://github.com/ChristianVerdin/DataCamp/tree/Android-App-Market-Analysis
-    - Purpose: Pandas, Androdi, and  Visualization practice
-    - Files: GooglePlay_Analysiss.ipynb, apps.csv, user_reviews.csv
+    - Purpose: Pandas, Androdid, and  Visualization practice
+    - Files: GooglePlay_Analysis.ipynb, apps.csv, user_reviews.csv
+    
+    
+    Project G: The GitHub History of the Scala Language
+    - Location: https://github.com/ChristianVerdin/DataCamp/tree/Scala-GitHub_Analysis
+    - Purpose: Pandas, Scala, and  Visualization practice
+    - Files: Scala-GitHub_Analysis.ipynb, pulls.csv, pull_files.csv, pulls_2011-2013.csv, pulls_2014-2018.csv
+    
+    
+    
