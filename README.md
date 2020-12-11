@@ -48,4 +48,10 @@ Click on Different Branches for links to jupyter notebooks and datasets
     - Files: Scala-GitHub_Analysis.ipynb, pulls.csv, pull_files.csv, pulls_2011-2013.csv, pulls_2014-2018.csv
     
     
+    Project H: A Visual History of Nobel Prize Winners
+    - Location: https://github.com/ChristianVerdin/DataCamp/tree/NobelPrizeWinner-Analysis
+    - Purpose: Pandas and  Visualization practice
+    - Files: NobelPrizeWinner-Analysis.ipynb, nobel.csv
+    
+    
     
