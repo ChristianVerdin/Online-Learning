@@ -55,6 +55,13 @@ Click on Different Branches for links to jupyter notebooks and datasets
     
     
     Project I: Analyze International Debt Statistics
-    - Location: https://github.com/ChristianVerdin/DataCamp/tree/NobelPrizeWinner-Analysis
+    - Location: https://github.com/ChristianVerdin/DataCamp/tree/International-debt
     - Purpose: Importing / Cleaning , Data Manipulation / SQL / Python practice
     - Files: International-Debt-Statistics.ipynb, international_debt.csv, international_debt.sql
+    
+    Project J: What and Where Are the World's Oldest Businesses?
+    - Location: https://github.com/ChristianVerdin/DataCamp/tree/oldest-businesses
+    - Purpose: Joining data in SQL practice
+    - Files: oldest-businesses.pynb
+
+    
