@@ -66,3 +66,8 @@ Click on Different Branches for links to jupyter notebooks and datasets
     - Location: https://github.com/ChristianVerdin/DataCamp/tree/oldest-businesses
     - Purpose: Joining data in SQL practice
     - Files: oldest-businesses.pynb
+    
+    Project K: Predict Taxi Fares with Random Forests
+    - Location: https://github.com/ChristianVerdin/DataCamp/blob/Predict-Taxi-Fares-with-Random-Forests/Predict%20Taxi%20Fares%20with%20Random%20Forests/notebook.ipynb
+    - Purpose: R practice
+    - Files: notebook.pynb
