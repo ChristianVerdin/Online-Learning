@@ -1,5 +1,5 @@
 ![header image](https://github.com/ChristianVerdin/DataCamp/blob/master/datacamp.png)
-
+![header image](https://github.com/ChristianVerdin/DataCamp/blob/master/Coursera.PNG)
 
 Projects and notes from DataCamp...
 
