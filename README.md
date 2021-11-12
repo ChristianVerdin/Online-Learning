@@ -1,6 +1,8 @@
 ![header image](https://github.com/ChristianVerdin/DataCamp/blob/master/datacamp.png)
+![header image](https://github.com/ChristianVerdin/Online-Learning/blob/master/Google-Data-Analytics-Certification.PNG)
 ![header image](https://github.com/ChristianVerdin/DataCamp/blob/master/Coursera.PNG)
 ![header image](https://github.com/ChristianVerdin/DataCamp/blob/master/AWS-ML.PNG)
+
 
 Projects and notes from DataCamp...
 
